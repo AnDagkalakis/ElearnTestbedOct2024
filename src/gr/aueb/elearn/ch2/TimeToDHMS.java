@@ -36,6 +36,7 @@ public class TimeToDHMS {
 
         System.out.printf("DAYS: %d\t HOURS: %d\tMINUTES: %d\t SECONDS: %d",
                 days, hours, mins, remainingSecs);
+        in.close();
 
     }
 }

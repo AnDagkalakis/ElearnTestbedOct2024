@@ -21,6 +21,7 @@ public class MathPowers {
         num= in.nextInt();
 
         System.out.printf("Number:\t%d\nSquare:\t%d\nCube:\t%d", num, (int)Math.pow(num, 2), (int)Math.pow(num, 3));
+        in.close();
 
 
     }

@@ -23,7 +23,7 @@ public class EurosToDollars     {
         final int Eur_USD = 109;
 
 
-        java.util.Scanner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
         System.out.println("Please give the ammount of Euros you want to transform into US Dollars");
         Euros = in.nextInt();
@@ -34,8 +34,7 @@ public class EurosToDollars     {
 
         System.out.printf("Total US cents: %02d\n", centUS);
         System.out.printf("USD: %d\nUSCents: %02d\n", USD, remainingCents);
-
-
+        in.close();
 
 
     }
