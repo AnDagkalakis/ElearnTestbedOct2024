@@ -3,6 +3,7 @@ package gr.aueb.elearn.ch2;
  * Converts Fahrenheit temperature into Celcius
  * in an Integer number.
  *
+ *
  * @author AnDagkalakis
  * @version 0.1
  */
