@@ -6,6 +6,7 @@ import java.util.Scanner;
 /**
  * Converts Days, Hours, Minutes and Seconds into Seconds.
  *
+ *
  * @author AnDagkalakis
  * @version 0.2
  */
