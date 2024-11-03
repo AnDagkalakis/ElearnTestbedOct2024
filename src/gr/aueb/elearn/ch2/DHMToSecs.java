@@ -4,10 +4,10 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * Transforms Days, Hours, Minutes and Seconds into Seconds
+ * Converts Days, Hours, Minutes and Seconds into Seconds.
  *
- * @author BITER
- * @version 0.1
+ * @author AnDagkalakis
+ * @version 0.2
  */
 
 public class DHMToSecs {

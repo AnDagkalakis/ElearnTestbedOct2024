@@ -4,11 +4,11 @@ package gr.aueb.elearn.ch2;
 import java.util.Scanner;
 
 /**
- * Transforms the total ammount of seconds that the user gives to
- * Days, Hours, Minutes and remaining Seconds
+ * Converts the total ammount of seconds that the user gives to
+ * Days, Hours, Minutes and remaining Seconds.
  *
- * @author BITER
- * @version 0.1
+ * @author AnDagkalakis
+ * @version 0.2
  */
 public class TimeToDHMS {
 

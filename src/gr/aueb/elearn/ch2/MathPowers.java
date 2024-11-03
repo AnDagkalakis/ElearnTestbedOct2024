@@ -8,8 +8,8 @@ import java.util.Scanner;
  * Math.pow() of the class Math.For system purposes it only uses
  * integer numbers.
  *
- * @author BITER
- * @version 0.1
+ * @author AnDagkalakis
+ * @version 0.2
  */
 public class MathPowers {
 

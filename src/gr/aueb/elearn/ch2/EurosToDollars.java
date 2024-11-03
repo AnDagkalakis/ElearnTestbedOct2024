@@ -5,11 +5,11 @@ package gr.aueb.elearn.ch2;
 import java.util.Scanner;
 
 /**
- * Transforms Euros to US Dollars by value
+ * Converts Euros to US Dollars by value.
  *
- * @author BITER
+ * @author AnDagkalakis
  * @see EurosToDollars
- * @version 0.1
+ * @version 0.2
  *
  */
 
