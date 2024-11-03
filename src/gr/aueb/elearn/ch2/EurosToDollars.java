@@ -7,6 +7,7 @@ import java.util.Scanner;
 /**
  * Converts Euros to US Dollars by value.
  *
+ *
  * @author AnDagkalakis
  * @see EurosToDollars
  * @version 0.2
